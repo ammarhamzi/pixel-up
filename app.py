@@ -1,15 +1,5 @@
 import os
-os.sys.path
 
-pip install opencv-python
-
-pip install basicsr
-pip install facexlib
-pip install gfpgan
-pip install tqdm
-pip install -U gradio
-
-pip install realesrgan
 
 import gradio as gr
 import cv2
